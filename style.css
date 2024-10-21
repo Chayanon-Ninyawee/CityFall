@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	height:100%;
+	width:100%;
+}
+
+body {
+  background-color:#0e1225;
+  display:grid;
+  height:100%;
+  width:100%;
+}
+
+#canvas {
+	image-rendering: pixelated;
+}
